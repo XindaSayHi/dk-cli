@@ -5,7 +5,7 @@
 ## 安装
 
 ```
-npm i dk-cli
+npm i dk-cli -g
 ```
 
 ## 功能
