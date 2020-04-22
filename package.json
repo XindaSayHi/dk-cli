@@ -1,0 +1,19 @@
+{
+  "name": "ddk-cli",
+  "version": "1.0.0",
+  "description": "Node Cli 工具，方便本地办公的一些小功能",
+  "main": "bin/dk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "dk": "bin/dk.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "commander": "^5.0.0",
+    "fs-extra": "^9.0.0"
+  }
+}
